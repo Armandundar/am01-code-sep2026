@@ -1,4 +1,4 @@
-﻿Pick-up time,Number of drivers,Surge price,Region
+﻿pick_up_time,number_of_drivers,surge_price,region
 10.4,8,1.8,suburb
 6,12,1.6,core
 9,5,1.9,core
