@@ -34,6 +34,9 @@ dependencies = [
     # dataframe summaries (pulls polars + pyarrow — see note at bottom)
     "skimpy>=0.0.21",
     "setuptools>=70,<81",
+    "lightgbm>=4.7.0",
+    "xgboost>=3.4.1",
+    "shap>=0.52.0",
 ]
 
 [dependency-groups]
