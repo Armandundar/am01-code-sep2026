@@ -4,7 +4,7 @@ An interactive dashboard that **explains** and **forecasts** daily hires on
 London's Santander Cycles scheme. Built with Python + pandas + Plotly + **Dash**,
 managed with **uv**, deployed free on **Render**.
 
-**Live URL:** _paste your Render URL here once the service is created_
+**Live URL:** https://cycle-demand-isz2.onrender.com
 
 ![The Explore tab](docs/screenshot-explore.png)
 
