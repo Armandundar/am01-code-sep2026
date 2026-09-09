@@ -1,0 +1,14 @@
+term,coefficient,source
+Intercept,29085.727009532307,model fitted on 2023 onwards
+temp,443.0087914166113,open-meteo temperature_2m_mean (C)
+humidity,-95.12151302083518,open-meteo relative_humidity_2m_mean (%)
+precip,-284.25809467218727,open-meteo precipitation_sum (mm)
+windspeed,-185.0945286256396,open-meteo wind_speed_10m_max (km/h)
+solarradiation,14.665806752221048,open-meteo shortwave_radiation_sum (MJ/m2) multiplied by 11.57
+day_Mon,0.0,baseline
+day_Tue,2381.3037533472057,added for that weekday
+day_Wed,2862.3140809187958,added for that weekday
+day_Thu,2516.7368560150626,added for that weekday
+day_Fri,-593.1841620034384,added for that weekday
+day_Sat,-3207.03908466479,added for that weekday
+day_Sun,-5227.534095197056,added for that weekday
